@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/week4Looops/week4Looops/bin/Debug/net7.0/Week4Looops
+/Users/laurpress/Projects/week4Looops/Week4Looops/bin/Debug/net7.0/Week4Looops.deps.json
+/Users/laurpress/Projects/week4Looops/Week4Looops/bin/Debug/net7.0/Week4Looops.runtimeconfig.json
+/Users/laurpress/Projects/week4Looops/week4Looops/bin/Debug/net7.0/Week4Looops.dll
+/Users/laurpress/Projects/week4Looops/week4Looops/bin/Debug/net7.0/Week4Looops.pdb
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.AssemblyInfo.cs
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.dll
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/refint/Week4Looops.dll
+/Users/laurpress/Projects/week4Looops/week4Looops/obj/Debug/net7.0/Week4Looops.pdb
+/Users/laurpress/Projects/week4Looops/Week4Looops/obj/Debug/net7.0/Week4Looops.genruntimeconfig.cache
+/Users/laurpress/Projects/week4Looops/Week4Looops/obj/Debug/net7.0/ref/Week4Looops.dll

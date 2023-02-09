@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/week4Looops/forloop/bin/Debug/net7.0/forloop
+/Users/laurpress/Projects/week4Looops/forloop/bin/Debug/net7.0/forloop.deps.json
+/Users/laurpress/Projects/week4Looops/forloop/bin/Debug/net7.0/forloop.runtimeconfig.json
+/Users/laurpress/Projects/week4Looops/forloop/bin/Debug/net7.0/forloop.dll
+/Users/laurpress/Projects/week4Looops/forloop/bin/Debug/net7.0/forloop.pdb
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.AssemblyInfo.cs
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.dll
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/refint/forloop.dll
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.pdb
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/forloop.genruntimeconfig.cache
+/Users/laurpress/Projects/week4Looops/forloop/obj/Debug/net7.0/ref/forloop.dll

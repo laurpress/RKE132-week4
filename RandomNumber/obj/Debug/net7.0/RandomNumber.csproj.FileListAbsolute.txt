@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/week4Looops/RandomNumber/bin/Debug/net7.0/RandomNumber
+/Users/laurpress/Projects/week4Looops/RandomNumber/bin/Debug/net7.0/RandomNumber.deps.json
+/Users/laurpress/Projects/week4Looops/RandomNumber/bin/Debug/net7.0/RandomNumber.runtimeconfig.json
+/Users/laurpress/Projects/week4Looops/RandomNumber/bin/Debug/net7.0/RandomNumber.dll
+/Users/laurpress/Projects/week4Looops/RandomNumber/bin/Debug/net7.0/RandomNumber.pdb
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.AssemblyInfo.cs
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.dll
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/refint/RandomNumber.dll
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.pdb
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/RandomNumber.genruntimeconfig.cache
+/Users/laurpress/Projects/week4Looops/RandomNumber/obj/Debug/net7.0/ref/RandomNumber.dll

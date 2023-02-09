@@ -1,0 +1,15 @@
+/Users/laurpress/Projects/week4Looops/WhileLoops/bin/Debug/net7.0/WhileLoops
+/Users/laurpress/Projects/week4Looops/WhileLoops/bin/Debug/net7.0/WhileLoops.deps.json
+/Users/laurpress/Projects/week4Looops/WhileLoops/bin/Debug/net7.0/WhileLoops.runtimeconfig.json
+/Users/laurpress/Projects/week4Looops/WhileLoops/bin/Debug/net7.0/WhileLoops.dll
+/Users/laurpress/Projects/week4Looops/WhileLoops/bin/Debug/net7.0/WhileLoops.pdb
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.AssemblyReference.cache
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfoInputs.cache
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.AssemblyInfo.cs
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.csproj.CoreCompileInputs.cache
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.dll
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/refint/WhileLoops.dll
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.pdb
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/WhileLoops.genruntimeconfig.cache
+/Users/laurpress/Projects/week4Looops/WhileLoops/obj/Debug/net7.0/ref/WhileLoops.dll
